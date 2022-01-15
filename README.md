@@ -11,5 +11,6 @@ Typescript based Discord Bot
 - embed is send embedded message function
 - get is axios-based API function
 - status is Bot status change function
+- getblock is Etherscan new block API requester
 
 status-charger = auto status change implementation
